@@ -13,4 +13,7 @@ let estoque={
         }
     ],
 }
+export function getEstoque(){
+    return structuredClone(estoque)
+}
 
