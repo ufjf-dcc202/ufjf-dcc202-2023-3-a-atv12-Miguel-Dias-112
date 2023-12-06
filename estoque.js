@@ -8,7 +8,7 @@ let estoque={
     ],
     maria: [
         {
-            tipo: "maça",
+            tipo: "abacate",
             qtd: 1
         }
     ],
